@@ -2,6 +2,6 @@
 
 最後測試:https://studio.youtube.com/video/Ml2hFGBadGc/edit
 
-因為電腦一直無法正常登入，所以只好用手機登入並測試
+因為電腦版的telegram一直無法正常登入，所以只好用手機登入並測試
 
 測試結果:https://ibb.co/mBzFTpc
